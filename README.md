@@ -8,3 +8,6 @@
 - [Getting Data From CSV Files](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/DataGathering/Working%20With(csv))
 - [Getting Data From Database and JSON](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/DataGathering/working_with_json)
 - [Getting Data From API](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/DataGathering/Fetching_Data(API))
+  
+### Understanding Your Data 
+- [Understanding Your Data](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Understanding%20Data)

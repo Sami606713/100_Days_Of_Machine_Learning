@@ -10,4 +10,4 @@
 - [Getting Data From API](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/DataGathering/Fetching_Data(API))
   
 ### Understanding Your Data 
-- [Understanding Your Data](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Understanding%20Data)
+- [Understanding Your Data using EDA(univariate Bi-Variate and Multi-Variate Analysis)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Understanding%20Data)

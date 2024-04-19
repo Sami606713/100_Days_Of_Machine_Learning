@@ -11,3 +11,7 @@
   
 ### Understanding Your Data 
 - [Understanding Your Data using EDA(univariate Bi-Variate and Multi-Variate Analysis)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Understanding%20Data)
+
+### Feature Engnering 
+- [Feature Scaling)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature%20Engnering/FeatureTransformation)
+- [Custom Scaler Class)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Feature%20Engnering/FeatureTransformation/Custom_Standization.ipynb)

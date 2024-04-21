@@ -20,5 +20,5 @@
 - [Roboust Scaling)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Feature%20Engnering/FeatureTransformation/Normilization/Roboust%20Scaling.ipynb)
 
 ### Encoding Categorical Data
--[Ordinal Encoder)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Encoding-Categorical-Data/Ordinal-Encoder.ipynb)
--[One Hot Encoder)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Encoding-Categorical-Data/One-Hot-Encoder.ipynb)
+- [Ordinal Encoder)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Encoding-Categorical-Data/Ordinal-Encoder.ipynb)
+- [One Hot Encoder)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Encoding-Categorical-Data/One-Hot-Encoder.ipynb)

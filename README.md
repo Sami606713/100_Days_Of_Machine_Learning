@@ -22,3 +22,6 @@
 ### Encoding Categorical Data
 - [Ordinal Encoder)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Encoding-Categorical-Data/Ordinal-Encoder.ipynb)
 - [One Hot Encoder)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Encoding-Categorical-Data/One-Hot-Encoder.ipynb)
+
+### Transformations
+- [Column Transformer)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ColumnTransformer)

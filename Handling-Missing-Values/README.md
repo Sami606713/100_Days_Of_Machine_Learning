@@ -1,8 +1,15 @@
-## Handling Missing Value
-### Complete Case Analysis
--  ``In Complete case analysis we can remove all these rows that contain missing values.``
--  ``We can apply CCA if we are sure if data is missing completely at ranmdom (MCAR).``
--  ``Generally we can remove value is value is missiing less then 5%.``
-## Rremember before applying CCA
-- ``Before removing and after removing distrubution of data should be same or almost same.``
+# Handling Missing Values
 
+## Complete Case Analysis
+
+Complete Case Analysis (CCA) involves removing all rows that contain missing values from a dataset.
+
+- In Complete Case Analysis, we can remove all rows that contain missing values.
+
+- CCA is applicable when we are confident that missing data is completely at random (MCAR).
+
+- Generally, we can remove values if they are missing less than 5%.
+
+## Remember Before Applying CCA
+
+Before removing and after removing, the distribution of data should be the same or almost the same.

@@ -1,6 +1,7 @@
 # Handling Missing Values 💼
 
 ## Complete Case Analysis 📊
+- [Handling Missing Data](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Handling-Missing-Values/CompleteCaseAnalysis(CCA).ipynb)
 
 Complete Case Analysis (CCA) involves removing all rows that contain missing values from a dataset.
 
@@ -13,6 +14,9 @@ Complete Case Analysis (CCA) involves removing all rows that contain missing val
 ## Remember Before Applying CCA 🧠
 
 Before removing and after removing, the distribution of data should be the same or almost the same.
+
+## Handling Numeric Data 📊
+- [Handling Numeric Data](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Handling-Missing-Values/Handling_Missing_Values(num-data).ipynb)
 
 # Simple Imputer
 
@@ -53,4 +57,7 @@ X_train_filled = imputer.fit_transform(X_train)
 
 # Transform the test data using the fitted imputer
 X_test_filled = imputer.transform(X_test)
+
+## Handling Numeric Data 📊
+- [Random Value Imputition](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Handling-Missing-Values/RandomValueImputition.ipynb)
 

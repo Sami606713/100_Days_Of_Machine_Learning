@@ -44,20 +44,26 @@ To use the Simple Imputer, follow these steps:
 4. Optionally, you can also use the `fit_transform` method to perform both fitting and transforming in a single step.
 5. For test or validation data, use the `transform` method to fill in missing values based on the learned strategy from the training data.
 
-## Example
-
-```python
-from sklearn.impute import SimpleImputer
-
-# Initialize Simple Imputer with mean strategy
-imputer = SimpleImputer(strategy='mean')
-
-# Fit and transform the training data
-X_train_filled = imputer.fit_transform(X_train)
-
-# Transform the test data using the fitted imputer
-X_test_filled = imputer.transform(X_test)
 
 ## Handling Numeric Data 📊
 - [Random Value Imputition](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Handling-Missing-Values/RandomValueImputition.ipynb)
+
+
+# Iterative Imputer
+- [Iterative Imputer](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Handling-Missing-Values/missing-indicator.ipynb)
+  
+## Overview
+Iterative Imputer is a technique used to fill missing values in a dataset by considering multiple columns simultaneously. It falls under the category of multiclass imputation methods.
+
+## Working
+1. **Initial Imputation:** Missing values are filled initially using a simple method such as mean imputation.
+2. **Conversion to Missing Values:** The filled values are then converted back to missing values.
+3. **Model Building:** A predictive model is built to estimate the missing values. Here, the column with missing data serves as the target variable, while the other columns act as features.
+4. **Iteration:** The difference between predicted values and the mean value of the entire column is calculated. The process of prediction and difference calculation continues iteratively until the difference becomes negligible (close to zero).
+
+## Advantage
+- **Accuracy:** It is considered one of the most accurate methods for imputation.
+
+## Disadvantage
+- **Computational Cost:** It can be computationally expensive and slow, especially for large datasets.
 

@@ -37,5 +37,6 @@
 - [Handling Missing Data](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Missing-Values)
 
 ### Handling Outliers
-- [z-Score Methos](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/Z-Score-Method)
+- [z-Score Method](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/Z-Score-Method)
 - [IQR Method](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/IQR-Method)
+- [Winserization Method](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/Percentile-Winserization)

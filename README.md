@@ -41,5 +41,9 @@
 - [IQR Method](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/IQR-Method)
 - [Winserization Method](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/Percentile-Winserization)
 
+### Handling Imbalance Data
+- [UnderSamoling](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Imbalance-Dataset/UnderSampling)
+  
+  
 ### Feature Construction
 - [Feature Construction](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature-Construction)

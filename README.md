@@ -47,3 +47,7 @@
   
 ### Feature Construction
 - [Feature Construction](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature-Construction)
+
+  
+### Feature Extraction
+- [Principal Component Analysis (PCA)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature%20Engnering/FeatureExtraction/PrincipalComponentAnalysis(PCA))

@@ -52,3 +52,6 @@
   
 ### Feature Extraction
 - [Principal Component Analysis (PCA)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature%20Engnering/FeatureExtraction/PrincipalComponentAnalysis(PCA))
+
+### Classification Matricss
+- [Accuracy and confusion matrics)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Matrics/classification_matrics)

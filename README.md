@@ -14,44 +14,54 @@
 - [Understanding Your Data using EDA(univariate Bi-Variate and Multi-Variate Analysis)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Understanding%20Data)
 
 ### Feature Engnering 
-- [Standard Scaling)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature%20Engnering/FeatureTransformation/Standization)
-- [Custom Scaler Class)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Feature%20Engnering/FeatureTransformation/Standization/Custom_Standization.ipynb)
-- [Normilization(MinMaxScaling)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature%20Engnering/FeatureTransformation/Normilization)
-- [Custom MinMaxScaler)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Feature%20Engnering/FeatureTransformation/Normilization/Min_Max_Scaling.ipynb)
-- [Roboust Scaling)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Feature%20Engnering/FeatureTransformation/Normilization/Roboust%20Scaling.ipynb)
-
-### Encoding Categorical Data
-- [Ordinal Encoder)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Encoding-Categorical-Data/Ordinal-Encoder.ipynb)
-- [One Hot Encoder)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Encoding-Categorical-Data/One-Hot-Encoder.ipynb)
+  - **Handling Missing Values**
+    - [Handling Missing Data](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Missing-Values)
+  - **Handling Outliers**
+    - [z-Score Method](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/Z-Score-Method)
+    - [IQR Method](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/IQR-Method)
+    - [Winserization Method](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/Percentile-Winserization)
+  
+  - **Feature Scaling**
+    - [Standard Scaling)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature%20Engnering/FeatureTransformation/Standization)
+    - [Custom Scaler Class)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Feature%20Engnering/FeatureTransformation/Standization/Custom_Standization.ipynb)
+    - [Normilization(MinMaxScaling)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature%20Engnering/FeatureTransformation/Normilization)
+    - [Custom MinMaxScaler)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Feature%20Engnering/FeatureTransformation/Normilization/Min_Max_Scaling.ipynb)
+    - [Roboust Scaling)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Feature%20Engnering/FeatureTransformation/Normilization/Roboust%20Scaling.ipynb)
+   
+  - **Encoding Categorical Data**
+    - [Ordinal Encoder)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Encoding-Categorical-Data/Ordinal-Encoder.ipynb)
+    - [One Hot Encoder)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/Encoding-Categorical-Data/One-Hot-Encoder.ipynb)
+    - `Lanbel Encoder` **It is commonly used for encoding the target col if target col is categorical.**
+      
+  - **Feature Construction**
+    - **In `Feature Construction` we can construct new `feature` manually based on domain knowledge.** 
+    - [Feature Construction](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature-Construction)
+      
+  - **Feature Extraction**
+    - [Principal Component Analysis (PCA)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature%20Engnering/FeatureExtraction/PrincipalComponentAnalysis(PCA))
+  - **Feature Selection**
+      - pass
 
 ### Transformations
-- [Column Transformer)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ColumnTransformer)
+  - **Column Transformer**
+    - [Column Transformer)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ColumnTransformer)
+  - **Function Transformation**
+    - [Function Transformation](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Function-Transformer)
+
 
 ### ML-Pipeline Project
 - [End-To-End-Project using Pipeline and without pipeline)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Pipelines)
 - [Web App)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Pipelines/app.py)
   
-### Function Transformation
-- [Function Transformation](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Function-Transformer)
 
-### Handling Missing Values
-- [Handling Missing Data](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Missing-Values)
-
-### Handling Outliers
-- [z-Score Method](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/Z-Score-Method)
-- [IQR Method](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/IQR-Method)
-- [Winserization Method](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Outlier/Percentile-Winserization)
 
 ### Handling Imbalance Data
 - [UnderSamoling](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Handling-Imbalance-Dataset/UnderSampling)
   
-  
-### Feature Construction
-- [Feature Construction](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature-Construction)
+### Matricss
+  - **Classification Matrics**
+    - [Accuracy ,confusion matrics,Precession,Recall and f1-score )](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Matrics/classification_matrics)
 
-  
-### Feature Extraction
-- [Principal Component Analysis (PCA)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Feature%20Engnering/FeatureExtraction/PrincipalComponentAnalysis(PCA))
-
-### Classification Matricss
-- [Accuracy ,confusion matrics,Precession,Recall and f1-score )](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Matrics/classification_matrics)
+## Algorithmns
+- **Simple Linear Regression**
+   - [Linear Rregression](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Algorithmns/Linear-Regression)

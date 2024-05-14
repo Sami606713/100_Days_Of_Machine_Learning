@@ -1,0 +1,101 @@
+city,cgpa,iq,placement
+New York,6.8,123,1
+Los Angeles,5.9,106,0
+Chicago,,121,0
+New York,7.4,132,1
+Los Angeles,5.8,142,0
+Chicago,7.1,48,1
+New York,5.7,,0
+Los Angeles,5,63,0
+Chicago,6.1,156,0
+New York,5.1,66,0
+Los Angeles,6,45,1
+Chicago,6.9,138,1
+New York,5.4,139,0
+Los Angeles,6.4,116,1
+Chicago,,103,0
+New York,5.1,176,0
+Los Angeles,5.2,224,0
+Chicago,3.3,183,0
+New York,4,,0
+Los Angeles,5.2,132,0
+Chicago,6.6,120,1
+New York,7.1,151,1
+Los Angeles,4.9,120,0
+Chicago,,87,0
+New York,4.7,121,0
+Los Angeles,5,91,0
+Chicago,7,199,1
+New York,6,124,1
+Los Angeles,5.2,90,0
+Chicago,,1,0
+New York,7.6,128,1
+Los Angeles,3.9,109,0
+Chicago,7,139,1
+New York,6,149,0
+Los Angeles,4.8,163,0
+Chicago,6.8,90,1
+New York,5.7,140,0
+Los Angeles,8.1,149,1
+Chicago,6.5,160,1
+New York,4.6,146,0
+Los Angeles,4.9,134,0
+Chicago,5.4,114,0
+New York,7.6,89,1
+Los Angeles,,141,1
+Chicago,7.5,61,1
+New York,6,66,1
+Los Angeles,5.3,114,0
+Chicago,5.2,161,0
+New York,6.6,138,1
+Los Angeles,5.4,135,0
+Chicago,3.5,233,0
+New York,4.8,141,0
+Los Angeles,,1,0
+Chicago,8.3,168,1
+New York,6.4,141,1
+Los Angeles,7.8,114,1
+Chicago,6.1,65,0
+New York,6.5,130,1
+Los Angeles,8,79,1
+Chicago,4.8,112,0
+New York,,1,0
+Los Angeles,7.3,137,1
+Chicago,6,102,0
+New York,6.3,128,1
+Los Angeles,7,64,1
+Chicago,8.1,166,1
+New York,6.9,96,1
+Los Angeles,5,118,0
+Chicago,4,75,0
+New York,8.5,120,1
+Los Angeles,6.3,127,1
+Chicago,6.1,,1
+New York,7.3,116,1
+Los Angeles,4.9,61,0
+Chicago,6.7,154,1
+New York,4.8,169,0
+Los Angeles,4.9,155,0
+Chicago,7.3,50,1
+New York,6.1,81,0
+Los Angeles,,1,0
+Chicago,4.9,196,0
+New York,5.4,107,0
+Los Angeles,6.5,37,1
+Chicago,7.5,130,1
+New York,5.7,169,0
+Los Angeles,5.8,166,1
+Chicago,5.1,128,0
+New York,5.7,132,1
+Los Angeles,4.4,149,0
+Chicago,4.9,,0
+New York,7.3,86,1
+Los Angeles,7.5,158,1
+Chicago,5.2,110,0
+New York,6.8,112,1
+Los Angeles,4.7,52,0
+Chicago,4.3,200,0
+New York,4.4,42,0
+Los Angeles,6.7,182,1
+Chicago,6.3,103,1
+New York,6.2,113,1

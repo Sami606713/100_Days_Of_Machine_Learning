@@ -64,4 +64,5 @@
 
 ## Algorithmns
 - **Simple Linear Regression**
-   - [Linear Rregression](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Algorithmns/Linear-Regression)
+   - [Simple Linear Rregression](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Algorithmns/Linear-Regression)
+   - [Custom Simple Linear Rregression](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Algorithmns/Linear-Regression)

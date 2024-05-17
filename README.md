@@ -61,7 +61,8 @@
 ### Matricss
   - **Classification Matrics**
     - [Accuracy ,confusion matrics,Precession,Recall and f1-score )](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Matrics/classification_matrics)
-
+ - **Regression Matrics**
+    - [MAE,MSE,RMSE,R2-Score,Adjusted-R2-Score](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Matrics/Regression-Matrix)
 ## Algorithmns
 - **Simple Linear Regression**
    - [Simple Linear Rregression](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Algorithmns/Linear-Regression)

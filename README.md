@@ -65,10 +65,14 @@
 - **Simple Linear Regression**
    - [Simple Linear Rregression](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Algorithmns/Linear-Regression)
    - [Custom Simple Linear Rregression](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Algorithmns/Linear-Regression)
+- **Logistic Regression**
+   - [Perceptron Trick](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Logistic-Regression/Perceptron-Trick.ipynb)
 
 ## Regulerization
 - **Ridge Regression**
    - [Ridge(L2)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Regulerization/RidgeRegression)
 - **Lasso Regression**
    - [Lasso(L1)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Regulerization/Lasso)
+ - **Elestic-Net**
+   - [Elestic-Net](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Regulerization/Elestic_net)
  

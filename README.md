@@ -66,7 +66,8 @@
    - [Simple Linear Rregression](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Algorithmns/Linear-Regression)
    - [Custom Simple Linear Rregression](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Algorithmns/Linear-Regression)
 - **Logistic Regression**
-   - [Perceptron Trick](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Logistic-Regression/Perceptron-Trick.ipynb)
+   - [Perceptron Trick(step_fun)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Logistic-Regression/Perceptron-Trick.ipynb)
+   - [Perceptron Trick(sigmoid fun)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Logistic-Regression/Sigmoid_Function.ipynb)
 
 ## Regulerization
 - **Ridge Regression**

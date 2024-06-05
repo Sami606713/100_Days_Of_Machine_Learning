@@ -68,6 +68,7 @@
 - **Logistic Regression**
    - [Perceptron Trick(step_fun)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Logistic-Regression/Perceptron-Trick.ipynb)
    - [Perceptron Trick(sigmoid fun)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Logistic-Regression/Sigmoid_Function.ipynb)
+  - [LogisticRegression(GradientDecent)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Logistic-Regression/Logistic_Regession(GradientDecent).ipynb)
 
 ## Regulerization
 - **Ridge Regression**

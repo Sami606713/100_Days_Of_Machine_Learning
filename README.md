@@ -71,7 +71,9 @@
   -  [LogisticRegression(GradientDecent)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Logistic-Regression/Logistic_Regession(GradientDecent).ipynb)
   -  [SoftMax Regression](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Logistic-Regression/SoftMaxRegression.ipynb)
   -  [SoftMax Regression On MNIST](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Logistic-Regression/SoftMax_MNIST.ipynb)
-
+- **Logistic Regression HyperParameter**
+  - [LogisticRegression Hyperparameter](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Algorithmns/LogisticRegression(HyperparameterTunning))
+    
 ## Regulerization
 - **Ridge Regression**
    - [Ridge(L2)](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/Regulerization/RidgeRegression)

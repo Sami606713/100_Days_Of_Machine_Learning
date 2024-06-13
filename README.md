@@ -75,6 +75,7 @@
   - [LogisticRegression Hyperparameter](https://github.com/Sami606713/100_Days_Of_Machine_Learning/tree/main/ML-Algorithmns/LogisticRegression(HyperparameterTunning))
 - **Voting-Ensumble**
   - [Voting-Classifier](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Ensumble_Learning/VotingEnsumble/VotingClassifier.ipynb)
+  - [Voting-Regressor](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Ensumble_Learning/VotingEnsumble/VotingRegressor.ipynb)
     
 ## Regulerization
 - **Ridge Regression**

@@ -76,6 +76,9 @@
 - **Voting-Ensumble**
   - [Voting-Classifier](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Ensumble_Learning/VotingEnsumble/VotingClassifier.ipynb)
   - [Voting-Regressor](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Ensumble_Learning/VotingEnsumble/VotingRegressor.ipynb)
+- **Bagging-Ensumble**
+  - [Bagging-Classifier](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Ensumble_Learning/Bagging/BaggingClassifier.ipynb)
+  - [Bagging-Regressor](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Ensumble_Learning/Bagging/BaggingRegressor.ipynb)
     
 ## Regulerization
 - **Ridge Regression**

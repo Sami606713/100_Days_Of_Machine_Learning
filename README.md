@@ -81,6 +81,7 @@
   - [Bagging-Regressor](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/Ensumble_Learning/Bagging/BaggingRegressor.ipynb)
 - **RandomForest**
   - [RandomForestClassifier](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/RandomForest/RandomForest.ipynb)
+  - [FeatureImportance](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/RandomForest/Feature_importance.ipynb)
     
 ## Regulerization
 - **Ridge Regression**

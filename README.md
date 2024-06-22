@@ -82,6 +82,8 @@
 - **RandomForest**
   - [RandomForestClassifier](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/RandomForest/RandomForest.ipynb)
   - [FeatureImportance](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/RandomForest/Feature_importance.ipynb)
+- **AdaBoost**
+  - [AdaBoostRegreessor](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/AdaBoost/AdaBoost.ipynb)
     
 ## Regulerization
 - **Ridge Regression**

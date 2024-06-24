@@ -84,6 +84,11 @@
   - [FeatureImportance](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/RandomForest/Feature_importance.ipynb)
 - **AdaBoost**
   - [AdaBoostRegreessor](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/AdaBoost/AdaBoost.ipynb)
+
+- **Clustring**
+  - [K_mean Clustring](https://github.com/Sami606713/100_Days_Of_Machine_Learning/blob/main/ML-Algorithmns/K-Mean/K_Mean_Clustring.ipynb)
+   
+  
     
 ## Regulerization
 - **Ridge Regression**
